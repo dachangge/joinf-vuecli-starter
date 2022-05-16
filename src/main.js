@@ -5,6 +5,16 @@ import store from "./store";
 
 Vue.config.productionTip = false;
 
+import "@/utils/filters";
+
+import "@/plugin/element";
+
+import "@/plugin/axios";
+
+import "@/utils/modal";
+
+import "@/components/index";
+
 new Vue({
   router,
   store,

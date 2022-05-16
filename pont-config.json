@@ -1,0 +1,6 @@
+{
+    "originUrl": "https://petstore.swagger.io/v2/swagger.json",
+    "outDir": "./src/services",
+    "templatePath": "./pontTemplate",
+    "surrounding": "javaScript"
+  }

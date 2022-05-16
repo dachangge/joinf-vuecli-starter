@@ -1,24 +1,29 @@
-# hello-world
+## Vue-cli 5.0.4 + PNPM
 
-## Project setup
-```
-pnpm install
-```
+### axios + [Pont](https://github.com/alibaba/pont)
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
+接口调用
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
+### eslint + prettier
 
-### Lints and fixes files
-```
-pnpm run lint
-```
+编码规范 格式化
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 日期处理 (day.js)[https://github.com/iamkun/dayjs]
+
+日期处理
+
+### icon svg + svg-sprite-loader
+
+图标
+
+### modal: vue.extends
+
+实现弹窗的函数式调用
+
+### (badjs)[http://badjs.mangoerp.com/login.html] 接入
+
+src/utils/badjs.js
+
+### Element
+
+---
